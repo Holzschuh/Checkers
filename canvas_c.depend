@@ -307,3 +307,66 @@
 1524158449 source:c:\users\inutiu\desktop\new folder\desktop\canvas\src\tile.cpp
 	"Tile.h"
 
+1524143864 source:c:\users\inutiu\downloads\checkers\src\board.cpp
+	"Board.h"
+
+1524144166 c:\users\inutiu\downloads\checkers\include\board.h
+	<vector>
+	"Tile.h"
+	"MatrixIndex.h"
+
+1496178352 c:\users\inutiu\downloads\checkers\include\tile.h
+	"Piece.h"
+
+1496691872 c:\users\inutiu\downloads\checkers\include\piece.h
+	"../src/gl_canvas2d.h"
+
+1496185050 c:\users\inutiu\downloads\checkers\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"GL/glut.h"
+	"GL/freeglut_ext.h"
+
+1426343640 c:\users\inutiu\downloads\checkers\include\gl\glut.h
+	"freeglut_std.h"
+
+1437551142 c:\users\inutiu\downloads\checkers\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426343640 c:\users\inutiu\downloads\checkers\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1496695724 c:\users\inutiu\downloads\checkers\include\matrixindex.h
+
+1496175624 source:c:\users\inutiu\downloads\checkers\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	"GL/glut.h"
+
+1496687716 source:c:\users\inutiu\downloads\checkers\src\main_c.cpp
+	"GL/glut.h"
+	"GL/freeglut_ext.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Board.h"
+
+1496695970 source:c:\users\inutiu\downloads\checkers\src\matrixindex.cpp
+	"MatrixIndex.h"
+
+1496692142 source:c:\users\inutiu\downloads\checkers\src\piece.cpp
+	"Piece.h"
+
+1524144048 source:c:\users\inutiu\downloads\checkers\src\tile.cpp
+	"Tile.h"
+
